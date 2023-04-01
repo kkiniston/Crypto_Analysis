@@ -11,3 +11,6 @@ The data Martha will be working with is not ideal, so it will need to be process
 - Part 2: Reducing Data Dimensions Using PCA
 - Part 3: Clustering Cryptocurrencies Using K-means
 - Part 4: Visualizing Cryptocurrencies Results
+
+
+![Screenshot 2023-03-13 190303-](https://user-images.githubusercontent.com/115853964/229266967-a0e675e0-9c85-4741-8080-a7df7eab76a9.png)
